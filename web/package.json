@@ -19,7 +19,7 @@
     "@mui/icons-material": "^5.14.1",
     "@mui/material": "^5.14.1",
     "@nivo/bar": "0.81.0",
-    "@nivo/calendar": "0.80.0",
+    "@nivo/calendar": "0.85.1",
     "@nivo/core": "0.81.0",
     "@nivo/legends": "0.80.0",
     "@nivo/line": "0.81.0",
