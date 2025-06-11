@@ -1,6 +1,6 @@
 # base requirements
 
-Django==4.2.5
+Django==4.2.22
 django-braces==1.15.0
 django-taggit==4.0.0
 psycopg==3.1.10
@@ -34,3 +34,4 @@ psycopg-binary==3.1.10
 psycopg-c==3.1.10
 scout-apm==2.26.1
 openpyxl==3.1.2
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
